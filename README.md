@@ -1,23 +1,70 @@
-## Omar Hernandez - Full Stack Developer
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/86250007?v=4"  />
+</div>
 
-Hola, soy Omar Hernandez, un Desarrollador Full Stack con una amplia experiencia en tecnologías basadas en Javascript. Actualmente, soy el Líder Técnico de Online Banking donde aplico mis habilidades para desarrollar y mantener soluciones de banca en línea eficientes y seguras.
+###
 
-Mi experiencia principal se centra en el desarrollo de soluciones de banca en línea, los ultimos dos años he trabajado en Blossom, logramos crear una plataforma bancaria desde cero, para diferentes Credit Union de estados unidos, logrando ya nuestro primer lanzamiento oficial, mi stack tecnologico del dia a dia es Node, TypeScript, GraphQL, React y Tailwind.
+<div align="center">
+  <a href="https://www.linkedin.com/in/omar-bastos/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-A continuación, presento algunos de los side projects en los que he colaborado sin animos de lucro
+###
 
-Proyectos Destacados
-Feematic & Feematic Nest
-Feematic y su contraparte en el back-end, Feematic Nest, son pequeñas aplicaciones que desarrollé para ayudar a mis familiares en Venezuela a entender el control cambiario. El proyecto permite convertir entre las monedas COP🇨🇴,USD🇺🇸 y VES🇻🇪. Este proyecto utiliza una variedad de herramientas incluyendo ReactJS, Vite, TypeScript, Jest, Testing Library, Tailwindcss, Eslint, y Pr​1​​2​ource】.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omar-hernandez-bastos.omar-hernandez-bastos"  />
+</div>
 
-Blackbeers
-Blackbeers es un sitio web que creé para mi hermana como side project y en busca de aportar a un emprendimiento familiar dedicada a la limpieza y mantenimiento de canillas de cerveza en Argentina, gracias al stack tecnologico y el pequeño trabajo de SEO, he logrado posicionarnos en Argentina como #1 en Mantenimientos de canillas en Argentina. Aca utilice de stack Gatsby y Tailwind.
+###
+
+<h1 align="center">Hello there, I'm Omar Hernandez 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻  About Me</h3>
+
+###
+
+<p align="left">
+I'm a Full Stack Developer with extensive experience in JavaScript-based technologies. Currently, I'm the Technical Leader of Online Banking where I apply my skills to develop and maintain efficient and secure online banking solutions. 
+
+For the last two years, I have been working at Blossom, creating a banking platform from scratch for different Credit Unions in the United States. I work primarily with Node, TypeScript, GraphQL, React, and Tailwind.
+
+Here are some of the side projects I've collaborated on without profit motives:
+
+1. Feematic & Feematic Nest
+2. Blackbeers
+</p>
+
+###
+
+<h3 align="left">🛠 Language and Tools</h3>
+
+###
+
+<div align="left">
+  <!-- add your language and tools here -->
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/omar-hernandez-bastos/omar-hernandez-bastos/output/snake.svg" alt="Snake animation" />
 
 
-Si te interesa mi trabajo y crees que podría ser un buen ajuste para tu equipo, no dudes en ponerte en contacto conmigo. Estoy siempre abierto a nuevas oportunidades y desafíos.
+###
 
-🔗 Links de interés:
+## 🔗 Featured Projects
 
-Blossom (blossom.net)
-Blackbeers (blackbeers.com.ar)
-Feematic (feematic.netlify.com)
+- [Feematic & Feematic Nest](https://feematic.netlify.com): Small applications that I developed to help my relatives in Venezuela understand currency control. It allows conversion between COP🇨🇴,USD🇺🇸 and VES🇻🇪. 
+
+- [Blackbeers](https://blackbeers.com.ar): A website I created for my sister as a side project and to contribute to a family business dedicated to beer faucet cleaning and maintenance in Argentina.
+
+## 📫 How to reach me
+
+If you're interested in my work and believe I could be a good fit for your team, don't hesitate to get in touch with me. I'm always open to new opportunities and challenges. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/omar-bastos/).
+
